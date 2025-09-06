@@ -4,18 +4,25 @@ This project is part of the UI/UX Track.
 The goal was to create a mobile app UI prototype that supports users in improving their mental or physical health.
 
 Features Designed
+
 Home Screen (Quick access to wellness tools)
 Tracker/Dashboard (Daily habits, fitness tracking)
 Activity Details (Detailed view of progress and insights)
+
 Skills Gained
+
 Empathy-driven UX
 Mobile-first design
 Accessibility principles
 Wellness UI standards
+
 Deliverables
+
 Figma Prototype
 Screenshots of UI Design
+
 How to View
+
 Open the Screenshots/ folder for preview images.
 Figma Prototype Link: [https://www.figma.com/proto/ggfGZyVmpmosK1YVf7Hfen/Untitled?node-id=0-1&t=v1A6KITJrJ3BPQpA-1 ]
 
